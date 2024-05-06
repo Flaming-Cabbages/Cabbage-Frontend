@@ -11,6 +11,8 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
+If you use FFmpeg or YT-dlp, you are subject to their respective license agreements/EULAs
+
 ------- START README --------
 
 Hi there, you must be setting up YT-dlp or something
